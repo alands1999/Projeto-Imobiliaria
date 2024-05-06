@@ -1,0 +1,89 @@
+body {
+    font-family: tahoma;
+}
+.secao-topo {
+    background-color: #afddfb;
+}
+.secao-topo, .secao-banner, .secao-sobre, .secao-corretores, .secao-contato, .secao-servicos {
+    padding: 60px;
+    text-align: center;
+}
+.secao-sobre, .secao-corretores, .secao-servicos, ul, .secao-contato, .secao-servicos p {
+    margin: 0px auto;
+}
+.secao-sobre, .secao-corretores, .secao-contato, ul, .secao-servicos p, .secao-sobre p, .secao-corretores p {
+    line-height: 50px; 
+}
+.secao-topo a {
+    padding: 0px 30px;
+    font-size: 27px;
+}
+.secao-banner img {
+    width: 1600px;
+}
+.secao-sobre, .secao-corretores {
+    width: 1600px;
+}
+.secao-sobre h1 {
+    font-size: 50px; 
+}
+.secao-sobre h2 {
+    font-size: 33px;
+    font-weight: normal;   
+}
+.secao-sobre h2, .secao-sobre span, .secao-corretores span, .secao-corretores h2 {
+    color: #1d80c1;
+}
+.secao-sobre p, .secao-corretores p {
+    font-size: 27px;
+    text-align: justify;
+}
+.secao-sobre span, .secao-corretores span {
+    font-weight: bold;
+}
+.secao-sobre img, .secao-corretores img {
+    width: 800px;
+    height: 600px;
+}
+.secao-servicos, .secao-contato {
+    background-color: #1d80c1;
+}
+.secao-servicos h2, .secao-contato h2 {
+    font-size: 33px;
+    color: white;
+}
+.secao-servicos p {
+    width: 900px;
+    font-size: 26px;
+    color: white;
+}
+.secao-servicos span, .secao-contato span  {
+    color: #fff81b;
+    font-weight: bold;
+}
+ul {
+    font-size: 26px;
+    color: white;  
+    text-align: left;
+    padding: 60px;
+    width: 300px;
+}
+.secao-corretores h2 {
+    font-size: 33px;
+}
+.paragrafo {
+    background-color: black;
+    font-size: 22px;
+    color: white;
+    padding: 12px 0px;
+ }
+ .secao-contato a {
+    font-size: 20px;
+    background-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px;
+    color: #1d80c1;
+ }
+
+
